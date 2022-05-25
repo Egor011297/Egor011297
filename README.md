@@ -1,5 +1,9 @@
         
 <div id="header" align="center">
+          <h1>
+    Hello there friends!
+      <img src="https://media.giphy.com/media/kReKcfrs1YoTmt2AQt/giphy.gif" width="20px"/>
+  </h1>
   <img src="https://media.giphy.com/media/elrFAUtV7ZOH7TSPhF/giphy-downsized.gif" width="180px"/>
   <div id="badges">
      <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
@@ -13,14 +17,8 @@
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=Egor011297&style=flat-square&color=blue" alt=""/>
-  <h1>
-    Hello there friends!
-      <img src="https://media.giphy.com/media/kReKcfrs1YoTmt2AQt/giphy.gif" width="20px"/>
-  </h1>
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/xUA7aQpQ8BK4A66oJa/giphy.gif" width="1050" height="300"/>
-</div>
+
         
 ---
         
@@ -37,7 +35,7 @@ I am a Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: My Stack :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -55,4 +53,14 @@ I am a Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Egor011297&theme=ayu-light)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Egor011297&layout=compact&theme=ayu-light)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+### Connect With Me: 
+
+[<img align="left" alt="LinkedIn" src='https://cdn-icons-png.flaticon.com/512/145/145807.png' width = 50/>](https://www.linkedin.com/in/egor-afanasew-252b3023b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1T8rYDPlRjazUt5UUQpZVA%3D%3D)
+
+
+[<img align="left" alt="Telegram" src='https://cdn-icons.flaticon.com/png/512/3670/premium/3670070.png?token=exp=1653465082~hmac=062882e483524750ab76723c7196ad10' width = 50/>](https://t.me/afanasew1297)
+
+
+
