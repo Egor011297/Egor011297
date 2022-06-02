@@ -4,7 +4,7 @@
     Hello there friends!
       <img src="https://media.giphy.com/media/kReKcfrs1YoTmt2AQt/giphy.gif" width="30px"/>
   </h1>
-  <img src="https://media.giphy.com/media/elrFAUtV7ZOH7TSPhF/giphy-downsized.gif" width="180px"/>
+  <img src="https://media.giphy.com/media/elrFAUtV7ZOH7TSPhF/giphy-downsized.gif" width="30px"/>
   <div id="badges">
      <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
