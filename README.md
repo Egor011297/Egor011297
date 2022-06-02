@@ -2,7 +2,7 @@
 <div id="header" align="center">
           <h1>
     Hello there friends!
-      <img src="https://media.giphy.com/media/kReKcfrs1YoTmt2AQt/giphy.gif" width="20px"/>
+      <img src="https://media.giphy.com/media/kReKcfrs1YoTmt2AQt/giphy.gif" width="30px"/>
   </h1>
   <img src="https://media.giphy.com/media/elrFAUtV7ZOH7TSPhF/giphy-downsized.gif" width="180px"/>
   <div id="badges">
